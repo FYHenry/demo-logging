@@ -1,3 +1,3 @@
 # demo-logging
 
-Exercices autout de la journalisation.
+Exercices autour de la journalisation.
